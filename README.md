@@ -1,6 +1,7 @@
 # summer-2022-internship
 
 ## How I completed a run
+This is for the block runs where data was outputted at each timestep in the Vasp simulation.
 
 1. Run the VASP simulation.
 2. Navigate to  jobs > simulation folder > QUAMBO (the folder structure should contain a bunch of files like DION, EIEGE, HBLOCH all with numbers after them). For example "/home/pranav/jobs/ice_cub_block/QUAMBO".
